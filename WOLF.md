@@ -3,7 +3,7 @@
 | :----------- | :------------- | :----- |
 | ![](/images/wolf//EntitySprite_wolf.webp)苍狼 | 针叶林 | ❎ |
 | ![](/images/wolf/EntitySprite_woods-wolf.webp)森林狼 | 森林 | ❎ |
-| ![](/images/wolf/EntitySprite_ashen-wolf.png)灰狼 | 积雪针叶林 |❎✅ |
+| ![](/images/wolf/EntitySprite_ashen-wolf.png)灰狼 | 积雪针叶林 |✅ |
 | ![](/images/wolf/EntitySprite_black-wolf.webp)黑狼 | 原始松木针叶林 | ❎ |
 | ![](/images/wolf/EntitySprite_chestnut-wolf.webp)栗色狼 | 原始云杉针叶林 | ❎ |
 | ![](/images/wolf/EntitySprite_rusty-wolf.webp)赭红狼 | 稀疏丛林 | ❎ |
